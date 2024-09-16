@@ -7,9 +7,9 @@ h1{
 #logo{
     background-color: deeppink;
 }
-#1st{
+.1{
 font-color:red;
 }
-#1st:hover {
+.1:hover {
 font-color:skyblue;
 }
