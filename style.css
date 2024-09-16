@@ -9,6 +9,8 @@ h1{
 }
 .Neo{
 color:red;
+font: size 40px;
+font-family: fantasy;
 }
 .Neo:hover {
 color:skyblue;
