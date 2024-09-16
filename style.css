@@ -7,3 +7,9 @@ h1{
 #logo{
     background-color: deeppink;
 }
+#1st{
+font-color:red;
+}
+#1st:hover {
+font-color:skyblue;
+}
