@@ -7,15 +7,15 @@ h1{
 #logo{
     background-color: deeppink;
 }
-h1{
+.Neo{
 color:red;
 font: size 40px;
 font-family: fantasy;
 text-align: center;
 
-.Neo :hover{
+.Neo:hover{
 color:skyblue;
 }
-p{
+.Matrix{
 text-align: center;
 }
