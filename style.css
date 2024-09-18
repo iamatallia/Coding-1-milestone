@@ -19,3 +19,9 @@ color:skyblue;
 .Matrix{
 text-align: center;
 }
+
+.pic{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
