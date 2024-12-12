@@ -8,13 +8,13 @@
     background-color: deeppink;
 }
 .Neo{
-color:red;
+color:rgb(155, 21, 233);
 font: size 40px;
-font-family: fantasy;
+font-family: papyrus;
 text-align: center;
 }
 .Neo:hover{
-color: skyblue;
+color: rgb(175, 24, 107);
 }
 .Matrix{
 text-align: center;
@@ -41,4 +41,8 @@ margin-right: auto;
   
   a:hover+div {
     display: block;
+  }
+  .er{
+    color: darkgrey;
+    text-align: center;
   }
